@@ -1,0 +1,12 @@
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\EntityLayer(CapaEntidad)\bin\Debug\net6.0\EntityLayer(CapaEntidad).deps.json
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\EntityLayer(CapaEntidad)\bin\Debug\net6.0\EntityLayer(CapaEntidad).dll
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\EntityLayer(CapaEntidad)\bin\Debug\net6.0\EntityLayer(CapaEntidad).pdb
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\EntityLayer(CapaEntidad)\obj\Debug\net6.0\EntityLayer(CapaEntidad).csproj.AssemblyReference.cache
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\EntityLayer(CapaEntidad)\obj\Debug\net6.0\EntityLayer(CapaEntidad).GeneratedMSBuildEditorConfig.editorconfig
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\EntityLayer(CapaEntidad)\obj\Debug\net6.0\EntityLayer(CapaEntidad).AssemblyInfoInputs.cache
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\EntityLayer(CapaEntidad)\obj\Debug\net6.0\EntityLayer(CapaEntidad).AssemblyInfo.cs
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\EntityLayer(CapaEntidad)\obj\Debug\net6.0\EntityLayer(CapaEntidad).csproj.CoreCompileInputs.cache
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\EntityLayer(CapaEntidad)\obj\Debug\net6.0\EntityLayer(CapaEntidad).dll
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\EntityLayer(CapaEntidad)\obj\Debug\net6.0\refint\EntityLayer(CapaEntidad).dll
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\EntityLayer(CapaEntidad)\obj\Debug\net6.0\EntityLayer(CapaEntidad).pdb
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\EntityLayer(CapaEntidad)\obj\Debug\net6.0\ref\EntityLayer(CapaEntidad).dll

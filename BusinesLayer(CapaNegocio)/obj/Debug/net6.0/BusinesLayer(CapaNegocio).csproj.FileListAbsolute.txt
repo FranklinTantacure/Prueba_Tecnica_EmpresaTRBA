@@ -1,0 +1,17 @@
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\BusinesLayer(CapaNegocio)\bin\Debug\net6.0\BusinesLayer(CapaNegocio).deps.json
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\BusinesLayer(CapaNegocio)\bin\Debug\net6.0\BusinesLayer(CapaNegocio).dll
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\BusinesLayer(CapaNegocio)\bin\Debug\net6.0\BusinesLayer(CapaNegocio).pdb
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\BusinesLayer(CapaNegocio)\bin\Debug\net6.0\DataBaseLayer(CapaDatos).dll
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\BusinesLayer(CapaNegocio)\bin\Debug\net6.0\EntityLayer(CapaEntidad).dll
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\BusinesLayer(CapaNegocio)\bin\Debug\net6.0\DataBaseLayer(CapaDatos).pdb
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\BusinesLayer(CapaNegocio)\bin\Debug\net6.0\EntityLayer(CapaEntidad).pdb
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\BusinesLayer(CapaNegocio)\obj\Debug\net6.0\BusinesLayer(CapaNegocio).csproj.AssemblyReference.cache
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\BusinesLayer(CapaNegocio)\obj\Debug\net6.0\BusinesLayer(CapaNegocio).GeneratedMSBuildEditorConfig.editorconfig
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\BusinesLayer(CapaNegocio)\obj\Debug\net6.0\BusinesLayer(CapaNegocio).AssemblyInfoInputs.cache
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\BusinesLayer(CapaNegocio)\obj\Debug\net6.0\BusinesLayer(CapaNegocio).AssemblyInfo.cs
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\BusinesLayer(CapaNegocio)\obj\Debug\net6.0\BusinesLayer(CapaNegocio).csproj.CoreCompileInputs.cache
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\BusinesLayer(CapaNegocio)\obj\Debug\net6.0\BusinesLayer(CapaNegocio).csproj.CopyComplete
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\BusinesLayer(CapaNegocio)\obj\Debug\net6.0\BusinesLayer(CapaNegocio).dll
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\BusinesLayer(CapaNegocio)\obj\Debug\net6.0\refint\BusinesLayer(CapaNegocio).dll
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\BusinesLayer(CapaNegocio)\obj\Debug\net6.0\BusinesLayer(CapaNegocio).pdb
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\BusinesLayer(CapaNegocio)\obj\Debug\net6.0\ref\BusinesLayer(CapaNegocio).dll

@@ -1,0 +1,15 @@
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\DataBaseLayer(CapaDatos)\bin\Debug\net6.0\DataBaseLayer(CapaDatos).deps.json
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\DataBaseLayer(CapaDatos)\bin\Debug\net6.0\DataBaseLayer(CapaDatos).dll
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\DataBaseLayer(CapaDatos)\bin\Debug\net6.0\DataBaseLayer(CapaDatos).pdb
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\DataBaseLayer(CapaDatos)\bin\Debug\net6.0\EntityLayer(CapaEntidad).dll
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\DataBaseLayer(CapaDatos)\bin\Debug\net6.0\EntityLayer(CapaEntidad).pdb
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\DataBaseLayer(CapaDatos)\obj\Debug\net6.0\DataBaseLayer(CapaDatos).csproj.AssemblyReference.cache
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\DataBaseLayer(CapaDatos)\obj\Debug\net6.0\DataBaseLayer(CapaDatos).GeneratedMSBuildEditorConfig.editorconfig
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\DataBaseLayer(CapaDatos)\obj\Debug\net6.0\DataBaseLayer(CapaDatos).AssemblyInfoInputs.cache
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\DataBaseLayer(CapaDatos)\obj\Debug\net6.0\DataBaseLayer(CapaDatos).AssemblyInfo.cs
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\DataBaseLayer(CapaDatos)\obj\Debug\net6.0\DataBaseLayer(CapaDatos).csproj.CoreCompileInputs.cache
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\DataBaseLayer(CapaDatos)\obj\Debug\net6.0\DataBaseLayer(CapaDatos).csproj.CopyComplete
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\DataBaseLayer(CapaDatos)\obj\Debug\net6.0\DataBaseLayer(CapaDatos).dll
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\DataBaseLayer(CapaDatos)\obj\Debug\net6.0\refint\DataBaseLayer(CapaDatos).dll
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\DataBaseLayer(CapaDatos)\obj\Debug\net6.0\DataBaseLayer(CapaDatos).pdb
+C:\A_PRUEBATECNICA_EmpresaTRBA\Proyecto_Empresa_TRBA\DataBaseLayer(CapaDatos)\obj\Debug\net6.0\ref\DataBaseLayer(CapaDatos).dll
